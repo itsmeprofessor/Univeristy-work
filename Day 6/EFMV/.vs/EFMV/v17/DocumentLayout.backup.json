@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|d:\\university\\sem 6\\visual programming\\univeristy work\\day 6\\efmv\\efmv\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|d:\\university\\sem 6\\visual programming\\univeristy work\\day 6\\efmv\\efmv\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|d:\\university\\sem 6\\visual programming\\univeristy work\\day 6\\efmv\\efmv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|d:\\university\\sem 6\\visual programming\\univeristy work\\day 6\\efmv\\efmv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|d:\\university\\sem 6\\visual programming\\univeristy work\\day 6\\efmv\\efmv\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|d:\\university\\sem 6\\visual programming\\univeristy work\\day 6\\efmv\\efmv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|d:\\university\\sem 6\\visual programming\\univeristy work\\day 6\\efmv\\efmv\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|d:\\university\\sem 6\\visual programming\\univeristy work\\day 6\\efmv\\efmv\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|d:\\university\\sem 6\\visual programming\\univeristy work\\day 6\\efmv\\efmv\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|d:\\university\\sem 6\\visual programming\\univeristy work\\day 6\\efmv\\efmv\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "EFMV\\Views\\Home\\Create.cshtml",
@@ -79,26 +79,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EFMV\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "EFMV\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-13T19:52:54.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EFMV\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EFMV\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T19:49:30.341Z",
               "EditorCaption": ""
@@ -118,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "EFMV\\Views\\User\\Index.cshtml",
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AddUser.cs",
               "DocumentMoniker": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Models\\AddModels\\AddUser.cs",
               "RelativeDocumentMoniker": "EFMV\\Models\\AddModels\\AddUser.cs",
@@ -157,20 +157,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "EFMV\\Controllers\\UserController.cs",
               "ToolTip": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Controllers\\UserController.cs",
               "RelativeToolTip": "EFMV\\Controllers\\UserController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwCcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwFgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T12:06:28.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Program.cs",
               "RelativeDocumentMoniker": "EFMV\\Program.cs",
@@ -183,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\appsettings.json",
               "RelativeDocumentMoniker": "EFMV\\appsettings.json",
@@ -196,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "EFMV\\Models\\MyDbContext.cs",
@@ -209,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\University\\Sem 6\\Visual Programming\\Univeristy work\\Day 6\\EFMV\\EFMV\\Models\\Entities\\User.cs",
               "RelativeDocumentMoniker": "EFMV\\Models\\Entities\\User.cs",
