@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoredProceduresWithAsp.NetFrameWork", "StoredProceduresWithAsp.NetFrameWork\StoredProceduresWithAsp.NetFrameWork.csproj", "{AF86BC57-BF18-472F-B3CF-4FC576A32271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF86BC57-BF18-472F-B3CF-4FC576A32271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF86BC57-BF18-472F-B3CF-4FC576A32271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF86BC57-BF18-472F-B3CF-4FC576A32271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF86BC57-BF18-472F-B3CF-4FC576A32271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAFA34FB-BD04-42CD-B6A2-6B3DDF1506E4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Lab Exam\\IdentityEFMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156BFBEC-886B-4153-9838-8A7147F48C2E}|IdentityEFMVC\\IdentityEFMVC.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\lab exam\\identityefmvc\\identityefmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156BFBEC-886B-4153-9838-8A7147F48C2E}|IdentityEFMVC\\IdentityEFMVC.csproj|solutionrelative:identityefmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156BFBEC-886B-4153-9838-8A7147F48C2E}|IdentityEFMVC\\IdentityEFMVC.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\lab exam\\identityefmvc\\identityefmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156BFBEC-886B-4153-9838-8A7147F48C2E}|IdentityEFMVC\\IdentityEFMVC.csproj|solutionrelative:identityefmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156BFBEC-886B-4153-9838-8A7147F48C2E}|IdentityEFMVC\\IdentityEFMVC.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\lab exam\\identityefmvc\\identityefmvc\\models\\addmodels\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156BFBEC-886B-4153-9838-8A7147F48C2E}|IdentityEFMVC\\IdentityEFMVC.csproj|solutionrelative:identityefmvc\\models\\addmodels\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156BFBEC-886B-4153-9838-8A7147F48C2E}|IdentityEFMVC\\IdentityEFMVC.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\lab exam\\identityefmvc\\identityefmvc\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156BFBEC-886B-4153-9838-8A7147F48C2E}|IdentityEFMVC\\IdentityEFMVC.csproj|solutionrelative:identityefmvc\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156BFBEC-886B-4153-9838-8A7147F48C2E}|IdentityEFMVC\\IdentityEFMVC.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\lab exam\\identityefmvc\\identityefmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{156BFBEC-886B-4153-9838-8A7147F48C2E}|IdentityEFMVC\\IdentityEFMVC.csproj|solutionrelative:identityefmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Lab Exam\\IdentityEFMVC\\IdentityEFMVC\\Models\\AddModels\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "IdentityEFMVC\\Models\\AddModels\\RegistrationModel.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Lab Exam\\IdentityEFMVC\\IdentityEFMVC\\Models\\AddModels\\RegistrationModel.cs",
+              "RelativeToolTip": "IdentityEFMVC\\Models\\AddModels\\RegistrationModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:48:40.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Lab Exam\\IdentityEFMVC\\IdentityEFMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IdentityEFMVC\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Lab Exam\\IdentityEFMVC\\IdentityEFMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IdentityEFMVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:42:47.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Lab Exam\\IdentityEFMVC\\IdentityEFMVC\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityEFMVC\\Program.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Lab Exam\\IdentityEFMVC\\IdentityEFMVC\\Program.cs",
+              "RelativeToolTip": "IdentityEFMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:22:27.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Lab Exam\\IdentityEFMVC\\IdentityEFMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityEFMVC\\appsettings.json",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Lab Exam\\IdentityEFMVC\\IdentityEFMVC\\appsettings.json",
+              "RelativeToolTip": "IdentityEFMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T10:18:48.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Lab Exam\\IdentityEFMVC\\IdentityEFMVC\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "IdentityEFMVC\\Models\\AppDbContext.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Lab Exam\\IdentityEFMVC\\IdentityEFMVC\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "IdentityEFMVC\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:10:55.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

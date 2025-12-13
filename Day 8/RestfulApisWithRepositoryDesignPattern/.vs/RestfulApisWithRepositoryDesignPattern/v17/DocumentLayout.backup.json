@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\day 8\\restfulapiswithrepositorydesignpattern\\restfulapiswithrepositorydesignpattern\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|solutionrelative:restfulapiswithrepositorydesignpattern\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\day 8\\restfulapiswithrepositorydesignpattern\\restfulapiswithrepositorydesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|solutionrelative:restfulapiswithrepositorydesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\day 8\\restfulapiswithrepositorydesignpattern\\restfulapiswithrepositorydesignpattern\\models\\datamanagers\\userdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|solutionrelative:restfulapiswithrepositorydesignpattern\\models\\datamanagers\\userdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\day 8\\restfulapiswithrepositorydesignpattern\\restfulapiswithrepositorydesignpattern\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|solutionrelative:restfulapiswithrepositorydesignpattern\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\day 8\\restfulapiswithrepositorydesignpattern\\restfulapiswithrepositorydesignpattern\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|solutionrelative:restfulapiswithrepositorydesignpattern\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\day 8\\restfulapiswithrepositorydesignpattern\\restfulapiswithrepositorydesignpattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|solutionrelative:restfulapiswithrepositorydesignpattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\day 8\\restfulapiswithrepositorydesignpattern\\restfulapiswithrepositorydesignpattern\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C9AB39-8048-49F7-A94C-2C6F9EBDC219}|RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj|solutionrelative:restfulapiswithrepositorydesignpattern\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RestfulApisWithRepositoryDesignPattern\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RestfulApisWithRepositoryDesignPattern\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA0wEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:22:02.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDataManager.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Models\\DataManagers\\UserDataManager.cs",
+              "RelativeDocumentMoniker": "RestfulApisWithRepositoryDesignPattern\\Models\\DataManagers\\UserDataManager.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Models\\DataManagers\\UserDataManager.cs",
+              "RelativeToolTip": "RestfulApisWithRepositoryDesignPattern\\Models\\DataManagers\\UserDataManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:03:04.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Repository\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "RestfulApisWithRepositoryDesignPattern\\Repository\\IDataRepository.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Repository\\IDataRepository.cs",
+              "RelativeToolTip": "RestfulApisWithRepositoryDesignPattern\\Repository\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T09:59:02.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "RestfulApisWithRepositoryDesignPattern\\Program.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Program.cs",
+              "RelativeToolTip": "RestfulApisWithRepositoryDesignPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T09:39:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\appsettings.json",
+              "RelativeDocumentMoniker": "RestfulApisWithRepositoryDesignPattern\\appsettings.json",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\appsettings.json",
+              "RelativeToolTip": "RestfulApisWithRepositoryDesignPattern\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-08T09:38:32.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RestfulApisWithRepositoryDesignPattern\\Models\\AppDbContext.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "RestfulApisWithRepositoryDesignPattern\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T09:30:28.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "RestfulApisWithRepositoryDesignPattern\\Models\\Entities\\User.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "RestfulApisWithRepositoryDesignPattern\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T09:28:35.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
