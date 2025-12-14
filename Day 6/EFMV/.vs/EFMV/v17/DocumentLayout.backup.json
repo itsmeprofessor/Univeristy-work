@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,18 +39,6 @@
       "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\models\\addmodels\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 6\\efmv\\efmv\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C94DED3D-5FEB-43C8-889E-DD30CE809D70}|EFMV\\EFMV.csproj|solutionrelative:efmv\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,15 +62,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "EFMV\\Views\\Home\\Create.cshtml",
@@ -78,12 +82,11 @@
               "RelativeToolTip": "EFMV\\Views\\Home\\Create.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-14T13:35:54.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T13:35:54.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "EFMV\\Views\\Home\\Edit.cshtml",
@@ -91,12 +94,11 @@
               "RelativeToolTip": "EFMV\\Views\\Home\\Edit.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-14T13:24:26.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T13:24:26.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EFMV\\Views\\Home\\Index.cshtml",
@@ -104,51 +106,49 @@
               "RelativeToolTip": "EFMV\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-14T13:13:06.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T13:13:06.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EFMV\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EFMV\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T19:49:30.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Views\\User\\Edit.cshtml",
               "RelativeDocumentMoniker": "EFMV\\Views\\User\\Edit.cshtml",
               "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Views\\User\\Edit.cshtml",
               "RelativeToolTip": "EFMV\\Views\\User\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-24T12:57:19.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "EFMV\\Views\\User\\Index.cshtml",
               "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Views\\User\\Index.cshtml",
               "RelativeToolTip": "EFMV\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBsAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T12:40:56.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T12:40:56.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AddUser.cs",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Models\\AddModels\\AddUser.cs",
               "RelativeDocumentMoniker": "EFMV\\Models\\AddModels\\AddUser.cs",
@@ -156,37 +156,37 @@
               "RelativeToolTip": "EFMV\\Models\\AddModels\\AddUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T12:16:00.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T12:16:00.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Views\\User\\Create.cshtml",
               "RelativeDocumentMoniker": "EFMV\\Views\\User\\Create.cshtml",
               "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Views\\User\\Create.cshtml",
               "RelativeToolTip": "EFMV\\Views\\User\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T12:11:39.087Z"
+              "WhenOpened": "2025-11-24T12:11:39.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "EFMV\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Controllers\\UserController.cs",
               "RelativeToolTip": "EFMV\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwD0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T12:06:28.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Program.cs",
               "RelativeDocumentMoniker": "EFMV\\Program.cs",
@@ -194,12 +194,11 @@
               "RelativeToolTip": "EFMV\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:29:32.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T11:29:32.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\appsettings.json",
               "RelativeDocumentMoniker": "EFMV\\appsettings.json",
@@ -207,12 +206,11 @@
               "RelativeToolTip": "EFMV\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-24T11:22:49.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T11:22:49.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "EFMV\\Models\\MyDbContext.cs",
@@ -220,12 +218,11 @@
               "RelativeToolTip": "EFMV\\Models\\MyDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:11:32.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T11:11:32.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 6\\EFMV\\EFMV\\Models\\Entities\\User.cs",
               "RelativeDocumentMoniker": "EFMV\\Models\\Entities\\User.cs",
@@ -233,8 +230,7 @@
               "RelativeToolTip": "EFMV\\Models\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:54:07.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T10:54:07.864Z"
             }
           ]
         }
