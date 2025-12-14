@@ -9,37 +9,31 @@ namespace EFMV.Controllers
     public class HomeController : Controller
     {
         private readonly MyDbContext dbdcontext;
-
-        //private readonly ILogger<HomeController> _logger;
-
-        //public HomeController(ILogger<HomeController> logger)
-        //{
-        //    _logger = logger;
-        //}
         public HomeController(MyDbContext dbdcontext)
         {
             this.dbdcontext = dbdcontext;
         }
-
-        public IActionResult Index()
+        public ActionResult Index()
         {
-            var users = dbdcontext.Users.ToList();
-            return View(users);
+            var homeusers = dbdcontext.Users.ToList();
+            return View(homeusers);
         }
-
-        public IActionResult Create()
+        // GET: HomeController/Create
+        public ActionResult Create()
         {
             return View();
         }
+        // POST: HomeController/Create
         [HttpPost]
-        public IActionResult Create(AddUser addUser1)
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(AddUser addUser)
         {
             try
             {
                 User u = new User()
                 {
-                    Name = addUser1.Name,
-                    Email = addUser1.Email
+                    Name = addUser.Name,
+                    Email = addUser.Email
                 };
                 dbdcontext.Users.Add(u);
                 dbdcontext.SaveChanges();
@@ -50,6 +44,73 @@ namespace EFMV.Controllers
                 return View();
             }
         }
+        // GET: HomeController/Edit/5
+        public ActionResult Edit(int id)
+        {
+            var homeSelectedUser = dbdcontext.Users.SingleOrDefault(x => x.Id == id);
+            return View(homeSelectedUser);
+        }
+        // POST: HomeController/Edit/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit(int id, User user)
+        {
+            try
+            {
+                var homeSelectedUser = dbdcontext.Users.SingleOrDefault(x => x.Id == id);
+                homeSelectedUser.Name = user.Name;
+                homeSelectedUser.Email = user.Email;
+                dbdcontext.SaveChanges();
+                return RedirectToAction(nameof(Index));
+            }
+            catch
+            {
+                return View();
+            }
+        }
+
+
+
+        //private readonly ILogger<HomeController> _logger;
+
+        //public HomeController(ILogger<HomeController> logger)
+        //{
+        //    _logger = logger;
+        //}
+        //public HomeController(MyDbContext dbdcontext)
+        //{
+        //    this.dbdcontext = dbdcontext;
+        //}
+
+        //public IActionResult Index()
+        //{
+        //    var users = dbdcontext.Users.ToList();
+        //    return View(users);
+        //}
+
+        //public IActionResult Create()
+        //{
+        //    return View();
+        //}
+        //[HttpPost]
+        //public IActionResult Create(AddUser addUser1)
+        //{
+        //    try
+        //    {
+        //        User u = new User()
+        //        {
+        //            Name = addUser1.Name,
+        //            Email = addUser1.Email
+        //        };
+        //        dbdcontext.Users.Add(u);
+        //        dbdcontext.SaveChanges();
+        //        return RedirectToAction(nameof(Index));
+        //    }
+        //    catch
+        //    {
+        //        return View();
+        //    }
+        //}
 
         //public IActionResult Privacy()
         //{
