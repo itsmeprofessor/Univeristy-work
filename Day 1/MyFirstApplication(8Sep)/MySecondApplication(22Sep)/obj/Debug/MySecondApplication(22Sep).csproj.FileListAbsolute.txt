@@ -1,0 +1,2 @@
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MySecondApplication(22Sep)\obj\Debug\MySecondApplication(22Sep).csproj.AssemblyReference.cache
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MySecondApplication(22Sep)\obj\Debug\MySecondApplication(22Sep).csproj.CoreCompileInputs.cache

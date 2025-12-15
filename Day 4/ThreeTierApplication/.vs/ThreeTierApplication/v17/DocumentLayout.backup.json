@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B08790DA-6801-4EE3-991A-D016D2CD48EA}|PresentationLayerWeb\\PresentationLayerWeb.csproj|E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\presentationlayerweb\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B08790DA-6801-4EE3-991A-D016D2CD48EA}|PresentationLayerWeb\\PresentationLayerWeb.csproj|solutionrelative:presentationlayerweb\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08790DA-6801-4EE3-991A-D016D2CD48EA}|PresentationLayerWeb\\PresentationLayerWeb.csproj|e:\\zain\\university\\sem6\\visual programming\\univeristy work\\day 4\\threetierapplication\\presentationlayerweb\\users.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08790DA-6801-4EE3-991A-D016D2CD48EA}|PresentationLayerWeb\\PresentationLayerWeb.csproj|solutionrelative:presentationlayerweb\\users.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F5DB90-40EA-47DF-BD24-48AC57E4DAD3}|DataAccessLayer\\DataAccessLayer.csproj|E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\dataaccesslayer\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F5DB90-40EA-47DF-BD24-48AC57E4DAD3}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F5DB90-40EA-47DF-BD24-48AC57E4DAD3}|DataAccessLayer\\DataAccessLayer.csproj|E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\dataaccesslayer\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F5DB90-40EA-47DF-BD24-48AC57E4DAD3}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85926F4E-8CB6-47D3-8747-E37644DA5FA6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\businesslogiclayer\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85926F4E-8CB6-47D3-8747-E37644DA5FA6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36971BC6-2627-445C-B717-DF186E56645D}|AppProps\\AppProps.csproj|E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\appprops\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36971BC6-2627-445C-B717-DF186E56645D}|AppProps\\AppProps.csproj|solutionrelative:appprops\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbCon.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\DataAccessLayer\\DbCon.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DbCon.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\DataAccessLayer\\DbCon.cs",
+              "RelativeToolTip": "DataAccessLayer\\DbCon.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:02:29.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.aspx.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\PresentationLayerWeb\\Users.aspx.cs",
+              "RelativeDocumentMoniker": "PresentationLayerWeb\\Users.aspx.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\PresentationLayerWeb\\Users.aspx.cs",
+              "RelativeToolTip": "PresentationLayerWeb\\Users.aspx.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:02:15.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\AppProps\\User.cs",
+              "RelativeDocumentMoniker": "AppProps\\User.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\AppProps\\User.cs",
+              "RelativeToolTip": "AppProps\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:24:22.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.aspx",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\PresentationLayerWeb\\Users.aspx",
+              "RelativeDocumentMoniker": "PresentationLayerWeb\\Users.aspx",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\PresentationLayerWeb\\Users.aspx",
+              "RelativeToolTip": "PresentationLayerWeb\\Users.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-10T13:35:30.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\BusinessLogicLayer\\UserBLL.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\UserBLL.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\BusinessLogicLayer\\UserBLL.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\UserBLL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:31:09.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\DataAccessLayer\\UserDAL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAL.cs",
+              "ToolTip": "E:\\Zain\\University\\Sem6\\Visual Programming\\Univeristy work\\Day 4\\ThreeTierApplication\\DataAccessLayer\\UserDAL.cs",
+              "RelativeToolTip": "DataAccessLayer\\UserDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:47:41.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

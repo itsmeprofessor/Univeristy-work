@@ -1,0 +1,32 @@
+C:\Users\Student\Documents\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\bin\Debug\MyFirstApplication(8Sep).exe.config
+C:\Users\Student\Documents\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\bin\Debug\MyFirstApplication(8Sep).exe
+C:\Users\Student\Documents\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\bin\Debug\MyFirstApplication(8Sep).pdb
+C:\Users\Student\Documents\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication_8Sep_.Form1.resources
+C:\Users\Student\Documents\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication_8Sep_.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).csproj.GenerateResource.cache
+C:\Users\Student\Documents\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).exe
+C:\Users\Student\Documents\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).pdb
+D:\University\Sem 6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\bin\Debug\MyFirstApplication(8Sep).exe.config
+D:\University\Sem 6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\bin\Debug\MyFirstApplication(8Sep).exe
+D:\University\Sem 6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\bin\Debug\MyFirstApplication(8Sep).pdb
+D:\University\Sem 6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).csproj.AssemblyReference.cache
+D:\University\Sem 6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).exe.config
+D:\University\Sem 6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication_8Sep_.Form1.resources
+D:\University\Sem 6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication_8Sep_.Properties.Resources.resources
+D:\University\Sem 6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).csproj.GenerateResource.cache
+D:\University\Sem 6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).csproj.CoreCompileInputs.cache
+D:\University\Sem 6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).exe
+D:\University\Sem 6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).pdb
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\bin\Debug\MyFirstApplication(8Sep).exe.config
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\bin\Debug\MyFirstApplication(8Sep).exe
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\bin\Debug\MyFirstApplication(8Sep).pdb
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).csproj.AssemblyReference.cache
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).exe.config
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication_8Sep_.Form1.resources
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication_8Sep_.Properties.Resources.resources
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).csproj.GenerateResource.cache
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).csproj.CoreCompileInputs.cache
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).exe
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 1\Visual Programming (sem 6)\MyFirstApplication(8Sep)\MyFirstApplication(8Sep)\obj\Debug\MyFirstApplication(8Sep).pdb

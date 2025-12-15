@@ -1,0 +1,6 @@
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 4\ThreeTierApplication\AppProps\bin\Debug\AppProps.dll
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 4\ThreeTierApplication\AppProps\bin\Debug\AppProps.pdb
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 4\ThreeTierApplication\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 4\ThreeTierApplication\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 4\ThreeTierApplication\AppProps\obj\Debug\AppProps.dll
+E:\Zain\University\Sem6\Visual Programming\Univeristy work\Day 4\ThreeTierApplication\AppProps\obj\Debug\AppProps.pdb
