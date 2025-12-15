@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj": {}
+    "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj": {
+    "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj",
+        "projectUniqueName": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj",
         "projectName": "RestfulApisWithRepositoryDesignPattern",
-        "projectPath": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj",
+        "projectPath": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern.csproj",
         "packagesPath": "C:\\Users\\zainm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\obj\\",
+        "outputPath": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\RestfulApisWithRepositoryDesignPattern\\RestfulApisWithRepositoryDesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

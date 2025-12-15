@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\",
+  "WorkspaceRootPath": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 5 probably\\storedprocedureswithasp.netframework\\storedprocedureswithasp.netframework\\bootstrapmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|solutionrelative:storedprocedureswithasp.netframework\\bootstrapmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\storedprocedureswithasp.netframework\\usersdetailpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|solutionrelative:storedprocedureswithasp.netframework\\usersdetailpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\storedprocedureswithasp.netframework\\usersdetailpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|solutionrelative:storedprocedureswithasp.netframework\\usersdetailpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|c:\\users\\zainm\\onedrive\\documents\\univeristy-work\\day 5 probably\\storedprocedureswithasp.netframework\\storedprocedureswithasp.netframework\\users.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\storedprocedureswithasp.netframework\\users.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|solutionrelative:storedprocedureswithasp.netframework\\users.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\storedprocedureswithasp.netframework\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\storedprocedureswithasp.netframework\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|solutionrelative:storedprocedureswithasp.netframework\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|c:\\users\\zainm\\onedrive\\documents\\github\\univeristy-work\\day 5 probably\\storedprocedureswithasp.netframework\\storedprocedureswithasp.netframework\\bootstrapmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|solutionrelative:storedprocedureswithasp.netframework\\bootstrapmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\storedprocedureswithasp.netframework\\usersdetailpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|solutionrelative:storedprocedureswithasp.netframework\\usersdetailpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\storedprocedureswithasp.netframework\\usersdetailpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF86BC57-BF18-472F-B3CF-4FC576A32271}|StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork.csproj|solutionrelative:storedprocedureswithasp.netframework\\usersdetailpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,36 +30,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Users.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\Users.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\Users.aspx.cs",
               "RelativeDocumentMoniker": "StoredProceduresWithAsp.NetFrameWork\\Users.aspx.cs",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\Users.aspx.cs",
+              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\Users.aspx.cs",
               "RelativeToolTip": "StoredProceduresWithAsp.NetFrameWork\\Users.aspx.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAwJMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-14T20:21:48.676Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BootStrapMasterPage.Master",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\BootStrapMasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\BootStrapMasterPage.Master",
               "RelativeDocumentMoniker": "StoredProceduresWithAsp.NetFrameWork\\BootStrapMasterPage.Master",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\BootStrapMasterPage.Master",
+              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\BootStrapMasterPage.Master",
               "RelativeToolTip": "StoredProceduresWithAsp.NetFrameWork\\BootStrapMasterPage.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -68,11 +60,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Users.aspx",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\Users.aspx",
+              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\Users.aspx",
               "RelativeDocumentMoniker": "StoredProceduresWithAsp.NetFrameWork\\Users.aspx",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\Users.aspx",
+              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\Users.aspx",
               "RelativeToolTip": "StoredProceduresWithAsp.NetFrameWork\\Users.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -81,29 +73,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UsersDetailPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx.cs",
               "RelativeDocumentMoniker": "StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx.cs",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx.cs",
+              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx.cs",
               "RelativeToolTip": "StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAAwJQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:51:01.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T12:51:01.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UsersDetailPage.aspx",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx",
+              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx",
               "RelativeDocumentMoniker": "StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx",
+              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 5 probably\\StoredProceduresWithAsp.NetFrameWork\\StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx",
               "RelativeToolTip": "StoredProceduresWithAsp.NetFrameWork\\UsersDetailPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-10-13T10:38:53.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T10:38:53.588Z"
             }
           ]
         }
