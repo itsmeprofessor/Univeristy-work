@@ -32,7 +32,12 @@ namespace AuthenticationNAuthorization
                     Session.Add("ID", ID);
                     Session.Add("AccessLevel", AccessLevel);
                     con.Close();
-                    Response.Redirect("Dashboard.aspx");
+                    if (AccessLevel == 3)
+                        Response.Redirect("ClientDashboard.aspx");
+                    else if (AccessLevel == 2)
+                        Response.Redirect("EmployeeDashboard.aspx");
+                    else if (AccessLevel == 1)
+                        Response.Redirect("AdminDashboard.aspx");
                 }
             }
             else
