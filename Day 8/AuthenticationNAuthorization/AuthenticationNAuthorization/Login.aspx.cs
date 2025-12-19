@@ -17,7 +17,8 @@ namespace AuthenticationNAuthorization
 
         protected void BtnLogin_Click(object sender, EventArgs e)
         {
-            string ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=\"Zain'sDB\";Integrated Security=True;TrustServerCertificate=True";
+            //string ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=\"Zain'sDB\";Integrated Security=True;TrustServerCertificate=True";
+            string ConnectionString = "Data Source=ZainMohyuddin;Initial Catalog=zainDB;Integrated Security=True;Encrypt=True;TrustServerCertificate=True";
             SqlConnection con = new SqlConnection(ConnectionString);
             string Qry = "SELECT ID,AccessLevel FROM Users WHERE Email='" + TxtEmail.Text + "' AND UserPassword='" + TxtPassword.Text + "'";
             con.Open();

@@ -1,46 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\",
+  "WorkspaceRootPath": "C:\\Users\\zainm\\source\\repos\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|c:\\users\\zainm\\onedrive\\documents\\github\\univeristy-work\\day 8\\authenticationnauthorization\\authenticationnauthorization\\employeedashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|solutionrelative:authenticationnauthorization\\employeedashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|c:\\users\\zainm\\onedrive\\documents\\github\\univeristy-work\\day 8\\authenticationnauthorization\\authenticationnauthorization\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|solutionrelative:authenticationnauthorization\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|c:\\users\\zainm\\onedrive\\documents\\github\\univeristy-work\\day 8\\authenticationnauthorization\\authenticationnauthorization\\clientdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|solutionrelative:authenticationnauthorization\\clientdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|c:\\users\\zainm\\onedrive\\documents\\github\\univeristy-work\\day 8\\authenticationnauthorization\\authenticationnauthorization\\clientdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|solutionrelative:authenticationnauthorization\\clientdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|c:\\users\\zainm\\onedrive\\documents\\github\\univeristy-work\\day 8\\authenticationnauthorization\\authenticationnauthorization\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|c:\\users\\zainm\\source\\repos\\univeristy-work\\day 8\\authenticationnauthorization\\authenticationnauthorization\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|solutionrelative:authenticationnauthorization\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\authenticationnauthorization\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|c:\\users\\zainm\\source\\repos\\univeristy-work\\day 8\\authenticationnauthorization\\authenticationnauthorization\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|solutionrelative:authenticationnauthorization\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|c:\\users\\zainm\\onedrive\\documents\\github\\univeristy-work\\day 8\\authenticationnauthorization\\authenticationnauthorization\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|solutionrelative:authenticationnauthorization\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|c:\\users\\zainm\\onedrive\\documents\\github\\univeristy-work\\day 8\\authenticationnauthorization\\authenticationnauthorization\\employeedashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|solutionrelative:authenticationnauthorization\\employeedashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\authenticationnauthorization\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|solutionrelative:authenticationnauthorization\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\authenticationnauthorization\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C608290-A249-4DA9-A15F-FC21A62EBACC}|AuthenticationNAuthorization\\AuthenticationNAuthorization.csproj|solutionrelative:authenticationnauthorization\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,132 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminDashboard.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\AdminDashboard.aspx.cs",
-              "RelativeDocumentMoniker": "AuthenticationNAuthorization\\AdminDashboard.aspx.cs",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\AdminDashboard.aspx.cs",
-              "RelativeToolTip": "AuthenticationNAuthorization\\AdminDashboard.aspx.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:29:52.8Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdminDashboard.aspx",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\AdminDashboard.aspx",
-              "RelativeDocumentMoniker": "AuthenticationNAuthorization\\AdminDashboard.aspx",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\AdminDashboard.aspx",
-              "RelativeToolTip": "AuthenticationNAuthorization\\AdminDashboard.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-15T06:29:25.519Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmployeeDashboard.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\EmployeeDashboard.aspx.cs",
-              "RelativeDocumentMoniker": "AuthenticationNAuthorization\\EmployeeDashboard.aspx.cs",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\EmployeeDashboard.aspx.cs",
-              "RelativeToolTip": "AuthenticationNAuthorization\\EmployeeDashboard.aspx.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:28:56.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmployeeDashboard.aspx",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\EmployeeDashboard.aspx",
-              "RelativeDocumentMoniker": "AuthenticationNAuthorization\\EmployeeDashboard.aspx",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\EmployeeDashboard.aspx",
-              "RelativeToolTip": "AuthenticationNAuthorization\\EmployeeDashboard.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-15T06:28:28.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientDashboard.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\ClientDashboard.aspx.cs",
-              "RelativeDocumentMoniker": "AuthenticationNAuthorization\\ClientDashboard.aspx.cs",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\ClientDashboard.aspx.cs",
-              "RelativeToolTip": "AuthenticationNAuthorization\\ClientDashboard.aspx.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswB0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:27:26.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClientDashboard.aspx",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\ClientDashboard.aspx",
-              "RelativeDocumentMoniker": "AuthenticationNAuthorization\\ClientDashboard.aspx",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\ClientDashboard.aspx",
-              "RelativeToolTip": "AuthenticationNAuthorization\\ClientDashboard.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-15T06:26:59.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Dashboard.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Dashboard.aspx.cs",
-              "RelativeDocumentMoniker": "AuthenticationNAuthorization\\Dashboard.aspx.cs",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Dashboard.aspx.cs",
-              "RelativeToolTip": "AuthenticationNAuthorization\\Dashboard.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T12:02:36.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Dashboard.aspx",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Dashboard.aspx",
-              "RelativeDocumentMoniker": "AuthenticationNAuthorization\\Dashboard.aspx",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Dashboard.aspx",
-              "RelativeToolTip": "AuthenticationNAuthorization\\Dashboard.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-08T12:01:49.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Login.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zainm\\source\\repos\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Login.aspx.cs",
               "RelativeDocumentMoniker": "AuthenticationNAuthorization\\Login.aspx.cs",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\zainm\\source\\repos\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Login.aspx.cs",
               "RelativeToolTip": "AuthenticationNAuthorization\\Login.aspx.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T11:48:01.938Z",
+              "WhenOpened": "2025-12-19T12:09:50.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Login.aspx",
+              "DocumentMoniker": "C:\\Users\\zainm\\source\\repos\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Login.aspx",
               "RelativeDocumentMoniker": "AuthenticationNAuthorization\\Login.aspx",
-              "ToolTip": "C:\\Users\\zainm\\OneDrive\\Documents\\GitHub\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Login.aspx",
+              "ToolTip": "C:\\Users\\zainm\\source\\repos\\Univeristy-work\\Day 8\\AuthenticationNAuthorization\\AuthenticationNAuthorization\\Login.aspx",
               "RelativeToolTip": "AuthenticationNAuthorization\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",

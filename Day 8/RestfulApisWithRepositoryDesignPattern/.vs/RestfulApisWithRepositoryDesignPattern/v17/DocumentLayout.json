@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,15 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
             },
             {
               "$type": "Document",
@@ -59,8 +67,7 @@
               "RelativeToolTip": "RestfulApisWithRepositoryDesignPattern\\Models\\DataManagers\\UserDataManager.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T10:54:40.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T10:54:40.012Z"
             },
             {
               "$type": "Document",
@@ -72,8 +79,7 @@
               "RelativeToolTip": "RestfulApisWithRepositoryDesignPattern\\Repository\\IDataRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T10:53:06.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T10:53:06.929Z"
             },
             {
               "$type": "Document",
@@ -85,8 +91,7 @@
               "RelativeToolTip": "RestfulApisWithRepositoryDesignPattern\\Models\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T09:28:35.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T09:28:35.396Z"
             }
           ]
         }

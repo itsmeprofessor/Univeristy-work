@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model ConsumingWebAPIsDotNetMVC.Models.Product
+<div class="container">
+    <h1>Edit Product</h1>
+    <form method="post" class="w-50 d-block mx-auto">
+        <div class="mb-3">
+            <label for="id" class="form-label">Please enter product id:</label>
+            <input type="text" class="form-control" asp-for="@Model.Id" id="id" value="@Model.Id" readonly />
+        </div>
+        <div class="mb-3">
+            <label for="name" class="form-label">Please enter product name:</label>
+            <input type="text" class="form-control" asp-for="@Model.Name" id="name" value="@Model.Name" />
+        </div>
+        <div class="mb-3">
+            <label for="description" class="form-label">Please enter product description:</label>
+            <input type="text" class="form-control" asp-for="@Model.Description" id="description" value="@Model.Description"/>
+        </div>
+        <div class="mb-3">
+            <label for="price" class="form-label">Please enter product price:</label>
+            <input type="text" class="form-control" asp-for="@Model.Price" id="price" value="@Model.Price"/>
+        </div>
+        <div class="mb-3">
+            <input type="submit" value="Save" class="btn btn-primary d-block mx-auto" />
+        </div>
+    </form>
+</div>
