@@ -20,10 +20,10 @@ namespace EFMV.Controllers
         }
 
         // GET: UserController/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
+        //public ActionResult Details(int id)
+        //{
+        //    return View();
+        //}
 
         // GET: UserController/Create
         public ActionResult Create()

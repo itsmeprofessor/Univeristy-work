@@ -11,6 +11,15 @@ namespace RestfulApisWithRepositoryDesignPattern.Models.DataManagers
         {
             this.appDbContext = dbContext;
         }
+        public IEnumerable<User> GetAll()
+        {
+            return appDbContext.Users.ToList();
+        }
+
+        public User GetById(int id)
+        {
+            return appDbContext.Users.SingleOrDefault(x => x.Id == id);
+        }
         public void Add(User entity)
         {
             appDbContext.Users.Add(entity);
@@ -21,16 +30,6 @@ namespace RestfulApisWithRepositoryDesignPattern.Models.DataManagers
         {
             appDbContext.Users.Remove(entity);
             appDbContext.SaveChanges();
-        }
-
-        public IEnumerable<User> GetAll()
-        {
-            return appDbContext.Users.ToList();
-        }
-
-        public User GetById(int id)
-        {
-            return appDbContext.Users.SingleOrDefault(x => x.Id == id);
         }
 
         public void Update(User dbEntity, User entity)
